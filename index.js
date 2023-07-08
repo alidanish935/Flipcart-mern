@@ -5,7 +5,7 @@ import DefaultData from './default.js'
 import cors from 'cors';
 import bodyParser from 'body-parser'
 
-import Router from './routes/Route.js'
+import Router from './routes/route.js'
 const app = express();
  dotenv.config(); // to initialize dotenv we hv to use dotenv.config()
 
