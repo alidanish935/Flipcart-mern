@@ -15,11 +15,11 @@ export const getProducts= async(request,response)=>{
 
 export const getProductById = async(request,response)=>{
 
-    console.log('getProductById00000000-----')
+    console.log('getProductById00000000-----',request.params.id)
     try{
-        const product = await cart.findOne({'id':request.params.id})
+        const product = await Product.findOne({'id':request.params.id})
         console.log('getProductById-----',product)
-       return response.status(200).json(product)
+        return response.status(200).json(product)
 
     }catch(error){
         return response.status(500).json({message:error.message})
