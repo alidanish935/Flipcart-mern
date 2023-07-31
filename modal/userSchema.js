@@ -37,7 +37,8 @@ const userSchema = new mongoose.Schema({
     },
     phone: {
         type: String
-    }
+    },
+    customer_id:{type:String},
 });
 
 const user = mongoose.model('user', userSchema);
