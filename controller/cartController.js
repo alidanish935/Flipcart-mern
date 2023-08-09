@@ -3,14 +3,14 @@ import cart from "../modal/cartSchema.js"
 export const addToCart = async(req,res)=>{
 
 const exist = await cart.findOne({customer_id:req.body.customer_id,url:req.body.url})
-// console.log('exist---',exist)
+console.log('exist---',exist)
 try{
         if(exist){
             
             console.log('addToCart in cartcontroller line 9',exist._id)
             // const updateCart = await cart.findByIdAndUpdate( {id:exist.id},{quantity:exist.quantity+1})
             const updateCart = await cart.findOneAndUpdate( {customer_id:exist.customer_id},{quantity:exist.quantity+1})
-            // console.log('updateCart - ',updateCart)
+            console.log('updateCart - ',updateCart)
             await updateCart.save()
           // const updateItem = await cart.findByIdAndUpdate({_id:req.body._id},)
         return res.status(201).json(updateCart);
@@ -20,7 +20,7 @@ try{
             const item = req.body
             // console.log('item in cartcontroller----',item)
             const newItem = new cart(item)
-            // console.log('addToCart in cartcontroller new-----',newItem)
+            console.log('addToCart in cartcontroller new-----',newItem)
             await newItem.save()
             // const newItem = await cart.create(item)
             res.status(200).json(newItem)
