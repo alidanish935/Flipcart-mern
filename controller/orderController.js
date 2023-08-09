@@ -48,31 +48,31 @@ export const sendMailOrder=async(req,res)=>{
       console.log('totalAmount--- ',totalAmount)
 
     try{
-        // const mailOptions = {
-        //     from:'alidanish935@gmail.comL',
-        //     to:email,
-        //     subject:` Order placed on Flipcart for ₹ ${totalAmount}`,
-        //     text:`Thanks for choosing  flipcart ${customer}  `,
-        //     html: `<p><b> Thanks for choosing  flipcart ${customer} </b> </p>
-        //             <p> Your <b> ${product.length}</b> item  ${product.map((item)=>(
-        //                 ` <b>${item}</b>`
-        //             ))}, quantity ${totalCartItem} successfully booked for amount ₹ ${totalAmount} and it will dispatch by tommorrow and expected to Deliver by <span style={{color:'green'}}> ${date.toDateString()} </span> </p>
-        //             <p>if you have any query feel free to contact us - 7549048614 </P>
-        //             <p> Thanks and have a good day</p>
-        //     `
+        const mailOptions = {
+            from:'alidanish935@gmail.comL',
+            to:email,
+            subject:` Order placed on Flipcart for ₹ ${totalAmount}`,
+            text:`Thanks for choosing  flipcart ${customer}  `,
+            html: `<p><b> Thanks for choosing  flipcart ${customer} </b> </p>
+                    <p> Your <b> ${product.length}</b> item  ${product.map((item)=>(
+                        ` <b>${item}</b>`
+                    ))}, quantity ${totalCartItem} successfully booked for amount ₹ ${totalAmount} and it will dispatch by tommorrow and expected to Deliver by <span style={{color:'green'}}> ${date.toDateString()} </span> </p>
+                    <p>if you have any query feel free to contact us - 7549048614 </P>
+                    <p> Thanks and have a good day</p>
+            `
 
-        // }
+        }
 
 
-        // tarnsporter.sendMail(mailOptions,(error,info)=>{
-        //     if(error){
-        //         console.log('error ',error)
-        //         res.status(400).json({error})
-        //     }else{
-        //         console.log('email sent ',info.response)
-        //         res.status(200).json({message:'email sent successfully'})
-        //     }
-        // })
+        tarnsporter.sendMail(mailOptions,(error,info)=>{
+            if(error){
+                console.log('error ',error)
+                res.status(400).json({error})
+            }else{
+                console.log('email sent ',info.response)
+                res.status(200).json({message:'email sent successfully'})
+            }
+        })
     }catch(error){
         res.status(500).json({error:error.message})
     }
