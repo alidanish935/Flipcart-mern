@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 const cartShema = new mongoose.Schema({
-    product_id:{type:String,unique:false},
+    id:{type:String,unique:false},
     url:String,
     customer_id:{type:String},
     detailUrl:String,

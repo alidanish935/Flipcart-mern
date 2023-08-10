@@ -13,13 +13,15 @@ const tarnsporter = nodemailer.createTransport({
 
 export const sendMailOrder=async(req,res)=>{
 
-    const email = req.body[0].email
+    
+
+    const email = req.body && req.body[0].email
     const customer = req.body[0].customer_id
     console.log('req body-- ',email,'customer--',customer)
     const product = req.body.map((item)=>{
         return item.title.shortTitle
     })
-    const product1 = req.body[0].title.shortTitle
+
 
     // const res = ()=>{
     //     for(let i=0;i<product.length;i++){
