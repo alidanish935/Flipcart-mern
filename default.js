@@ -1,9 +1,10 @@
 
-import {Data} from './constant/product2.js'
 import {products} from './constant/product.js'
+import { clothData } from './constant/clothsProduct.js'
 import Product from './modal/productSchema.js'
+import ProductCloth from './modal/clothSchema.js'
 
-const DefaultData= async ()=>{
+export const DefaultData= async ()=>{
     try {
     //    await Product.deleteMany({})
         await Product.insertMany(products)
@@ -12,4 +13,13 @@ const DefaultData= async ()=>{
         console.log('error while inserting default data',error.message)
     }
 }
-export default DefaultData
+
+export const DefaultClothData =async()=>{
+    try {
+           await ProductCloth.deleteMany({})
+            await ProductCloth.insertMany(clothData)
+            console.log('data imported successfuly')
+        }catch(error){
+            console.log('error while inserting default data',error.message)
+        }
+}

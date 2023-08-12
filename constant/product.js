@@ -124,5 +124,55 @@ export const products = [
         description: 'Let music brighten up your mood anytime, anywhere with the boAt 235v2 Fast Charging Bluetooth Headset. This Bluetooth headset features a Call Vibration Alert, a Fast Charging Technology, and Easy Access Controls to listen to and manage your favorite music with ease.',
         discount: 'Minimum 50% Off', 
         tagline: 'Grab Now!' 
-    }
+    },
+    {
+        id: 'product8',
+        url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/6405d4b3-1956-4f04-84a7-3e51af2e32aa1645109150192GANTMenWhitePrintedCasualShirt2.jpg",
+        detailUrl:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
+        title: {
+            shortTitle: 'roadster',
+            longTitle: "cotton chambary casual shirt",
+        },
+        price: {
+            mrp: 1195,
+            cost: 625,
+            discount: '47%'
+        },
+        quantity: 1,
+        description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !",
+        filter: "men",
+        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/06f30541-4140-49be-b1a4-ef37e5af16581645109150031GANTMenWhitePrintedCasualShirt3.jpg",
+        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/8c6332f7-6834-469b-9a97-92ee8481e3da1645109149753GANTMenWhitePrintedCasualShirt4.jpg",
+        visible: true,
+        category: "shirt",
+        size: [34, 36, 42],
+        discount: 'Extra 10% Off', 
+        tagline: 'Deal of the day' 
+        
+    },
+    {
+        id: "product9",
+        url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/637626cc-565d-4322-98ed-2674cfa4a4281549278244906-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-1.jpg",
+        detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/9d4ff7c7-549f-4b8f-9bea-f254c3c631861549278244885-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-2.jpg",
+        title: {
+            shortTitle: 'zara',
+            longTitle: 'zara slim casual shirt  '
+        },
+        price: {
+            mrp: 2990,
+            cost: 1199,
+            discount: '59%'
+        },
+        quantity: 1,
+        filter: "men",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/41772698-8748-466f-a091-6de23005bbad1549278244863-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/fc961fe1-19bd-4b43-a64a-4cc761f1f4d81549278244822-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-5.jpg",
+        discount: 'Minimum 50% Off',
+        tagline: 'Grab Now!',
+        category: "shirt",
+        size: [34, 36, 42],
+        visible: true,
+        description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+    },
+    
 ];

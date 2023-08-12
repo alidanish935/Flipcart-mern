@@ -1,7 +1,7 @@
 import express from 'express'
 import { userSignUp ,userLogin, userOtpSend, userVerifyCont } from '../controller/user-controller.js';
 import {DecreaseItemQuantity, IncreaseItemQuantity, addToCart, deleteCartItem, getCartItem} from '../controller/cartController.js'
-import { getProducts,getProductById } from '../controller/productController.js';
+import { getProducts,getProductById, getClothProducts, getClothById } from '../controller/productController.js';
 import { sendMailOrder } from '../controller/orderController.js';
 // import {addPaymentGateway} from '../controller/payment-controller.js'
 const router = express.Router();
@@ -20,7 +20,9 @@ router.put('/increasequantity/:id',IncreaseItemQuantity)
 router.put('/decreasequantity/:id',DecreaseItemQuantity)
 
 router.get('/products',getProducts)
+router.get('/clothproducts',getClothProducts)
 router.get('/product/:id',getProductById)
+router.get('/clothdetail/:id',getClothById)
 router.get('/getcartItem/:customer_id',getCartItem)
 
 router.delete('/deleteproduct/:id',deleteCartItem)

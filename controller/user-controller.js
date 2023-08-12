@@ -20,8 +20,9 @@ export const userSignUp = async (request,response) =>{
         }
         const user = request.body;
         const newUser = new User(user);
+        console.log('newuser in usersignup --- ',newUser)
        await newUser.save();
-        response.status(200).json({ message: user });
+        response.status(200).json({ message: newUser });
         
     } catch (error) {
         response.status(500).json({ message: error.message });  

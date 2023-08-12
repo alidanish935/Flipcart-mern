@@ -1,7 +1,8 @@
 import express from 'express'
 import dotenv from 'dotenv'
 import Connection from './database/db.js';
-import DefaultData from './default.js'
+import {DefaultData} from './default.js'
+import {DefaultClothData} from './default.js'
 import cors from 'cors';
 import bodyParser from 'body-parser'
 import {v4 as uuid} from 'uuid'
@@ -25,6 +26,7 @@ const PORT = 5000 || process.env.PORT
  app.listen(PORT, ()=> console.log('server is running on ',PORT))
  
  DefaultData()
+ DefaultClothData()
 
  export let paytmMerchantkey = process.env.PAYTM_MERCHANT_KEY
  export let paytmParams = {};
