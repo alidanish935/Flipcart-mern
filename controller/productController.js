@@ -29,14 +29,16 @@ export const getProductById = async(request,response)=>{
 
     console.log('getProductById00000000-----',request.params.id)
     try{
-        const product = await Product.findOne({'id':request.params.id})
-        // console.log('getProductById-----',product)
+        const product = await Product.findOne({id:request.params.id})
+        console.log('getProductById-----',product)
         return response.status(200).json(product)
 
     }catch(error){
+        console.log('error in product detail--',error.message)
         return response.status(500).json({message:error.message})
     }
 }
+
 export const getClothById = async(req,res)=>{
     try{
         const cloth = await ProductCloth.findOne({'id':req.params.id})
@@ -47,4 +49,5 @@ export const getClothById = async(req,res)=>{
         return res.status(500).json({message:error.message})
     }
 }
+
 

@@ -5,8 +5,8 @@ export const clothData = [
         url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/6405d4b3-1956-4f04-84a7-3e51af2e32aa1645109150192GANTMenWhitePrintedCasualShirt2.jpg",
         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
         title: {
-            shortTitle: 'roadster',
-            longTitle: "cotton chambary casual shirt",
+            shortTitle: 'roadster1',
+            longTitle: "cotton chambary casual shirt-1",
         },
         price: {
             mrp: 1195,
@@ -31,7 +31,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/9d4ff7c7-549f-4b8f-9bea-f254c3c631861549278244885-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-2.jpg",
         title: {
             shortTitle: 'zara',
-            longTitle: 'zara slim casual shirt  '
+            longTitle: 'zara slim casual shirt-1 '
         },
         price: {
             mrp: 2990,
@@ -56,7 +56,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12947450/2021/1/27/b0494c20-73e7-49d4-8714-ded9e49bc6751611724552909-Roadster-Men-Shirts-4521611724551117-2.jpg",
         title: {
             shortTitle: 'roadster',
-            longTitle: 'roadster slim fit casual shirt'
+            longTitle: 'roadster slim fit casual shirt-1'
         },
         price: {
             mrp: 2250,
@@ -83,7 +83,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/5c7d5d63-51ea-470e-9478-99b5f86ff7d01584008987255-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-6.jpg",
         title: {
             shortTitle: 'wrogn',
-            longTitle: 'wrogn checked casual shirt,'
+            longTitle: 'wrogn checked casual shirt,-1'
         },
         price: {
             mrp: 1899,
@@ -109,7 +109,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353416-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-3.jpg",
         title: {
             shortTitle: 'roadster',
-            longTitle: 'roadster slim fat casual shirt, ',
+            longTitle: 'roadster slim fat casual shirt,-2 ',
         },
         price: {
             mrp: 6999,
@@ -134,7 +134,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/83d1e9db-0d04-4cb6-80ed-4079f67428021645461017132OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt5.jpg",
         title: {
             shortTitle: 'harvard',
-            longTitle: 'harvard, slim fit casual shirt '
+            longTitle: 'harvard, slim fit casual shirt-3 '
         },
         price: {
             mrp: 499,
@@ -144,7 +144,7 @@ export const clothData = [
         quantity: 1,
         discount: 'Upto 70% Off',
         tagline: 'Deal of the Day',
-        filter: "girls",
+        filter: "kids",
         img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/f9009969-ff1b-440e-95d4-ed48615e35371645461017349OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt7.jpg",
         img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/e932a833-9cff-4940-b6b9-141d9d7dd7601645461017110OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt4.jpg",
         recommendation: 1,
@@ -159,7 +159,8 @@ export const clothData = [
     {
         id: 'product14',
         url: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/07b6bf7a-3499-4d5a-aeb0-2c4e1997ef561639740587223-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-1.jpg",
-        detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/792b5e1c-1040-4b7c-81b1-6e460584e8051639740587187-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-5.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/792b5e1c-1040-4b7c-81b1-6e460584e8051639740587187-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-5.jpg",
+        detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/dea1a5ba-79e2-4120-8f06-260aa6066a6a1639740587207-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-3.jpg",
         title: {
             shortTitle: 'parx',
             longTitle: 'Flipkart SmartBuy parx oversized cotton shirt'
@@ -172,8 +173,7 @@ export const clothData = [
         quantity: 1,
         discount: 'From 99+5% Off',
         tagline: 'Pestige, Nova & more',
-        filter: "boys",
-        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/dea1a5ba-79e2-4120-8f06-260aa6066a6a1639740587207-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-3.jpg",
+        filter: "kids",
         img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14801768/2021/12/17/5c83f035-439a-4af5-a2fc-44c22b23e0a01639740587199-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-4.jpg",
         visible: true,
         category: "shirt",
@@ -214,7 +214,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/48fc7a5b-bc4f-4a79-9f81-79fdf0a975ce1634727742840PepeJeansGirlsBlueOpaqueCasualShirt6.jpg",
         title: {
             shortTitle: 'zara',
-            longTitle: 'zara semi-sheer casual shirt  '
+            longTitle: 'zara semi-sheer casual shirt-2  '
         },
         price: {
             mrp: 2990,
@@ -222,7 +222,7 @@ export const clothData = [
             discount: '59%'
         },
         quantity: 1,
-        filter: "girls",
+        filter: "kids",
         discount: 'Minimum 50% Off',
         tagline: 'Grab Now!',
         img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/833758f0-486e-457c-a86e-994023ebe2441634727742508PepeJeansGirlsBlueOpaqueCasualShirt5.jpg",
@@ -240,7 +240,7 @@ export const clothData = [
         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/e1447d71-80d8-4ffa-b02c-e004a8ad8bbe1625657481513IndianTerrainBoysPinkPureCottonPrintedCasualShirt2.jpg",
         title: {
             shortTitle: 'roadster',
-            longTitle: 'roadster slim fit casual shirt'
+            longTitle: 'roadster slim fit casual shirt-3'
         },
         price: {
             mrp: 2250,
@@ -249,7 +249,7 @@ export const clothData = [
         },
         quantity: 1,
         discount: 'Minimum 40% Off',
-        filter: "boys",
+        filter: "kids",
         img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/db43ff4c-5a6b-4925-9724-3d2df943f1141625657481807IndianTerrainBoysPinkPureCottonPrintedCasualShirt5.jpg",
         img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/ea0cc542-f671-4a4d-bc2b-2352d11047361625657481591IndianTerrainBoysPinkPureCottonPrintedCasualShirt3.jpg",
         visible: true,
@@ -260,8 +260,196 @@ export const clothData = [
 
     },
   
+    {
+        
+        id: 'product18',
+        url: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/0cfc9a8c-bea8-4d45-b23c-0c6b343706061643343225264Checkedshirt1.jpg",
+        detailUrl: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/385ea3af-3859-4b72-83cc-269a2ec03c301643343225252Checkedshirt2.jpg",
+        title: {
+            shortTitle: 'harvard',
+            longTitle: 'harvard regular fit casual shirt-2'
+        }, 
+        price: {
+            mrp: 1195,
+            cost: 625,
+            discount: '47%'
+        },
+        quantity: 1,
+        filter: "women",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/c9ec7457-9bdd-43ba-9f54-65b87e6e83d11643343224742Checkedshirt3.jpg",
+        img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/e1c9eff1-718f-4511-9153-c57bbbf8e27c1643343224730Checkedshirt4.jpg",
+        visible: true,
+        discount: 'Extra 10% Off', 
+        tagline: 'Deal of the day',
+        category: "sleepShirt",
+        size: [34, 36, 42],
+        description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+
+    },
+
+
+    {
+        id: 'product19',
+        url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/7832e213-2231-44d3-8a36-0fe4f0e3862c1629366195385Oversizedviscose-blendshirt1.jpg",
+        detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/619186b9-564d-4f09-bfdc-1f3bba9b882b1629366195228Oversizedviscose-blendshirt2.jpg",
+        title: {
+            shortTitle: 'wrogn',
+            longTitle: 'wrogn check hooded casual shirt-1'
+        },
+        price: {
+            mrp: 1499,
+            cost: 899,
+            discount: '40%'
+        },
+        quantity: 1, 
+        filter: "kids",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/cbc0e41b-61fd-4f6c-830b-27b182c9226d1629366194985Oversizedviscose-blendshirt3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/714ca238-bb80-4ff3-b7c1-a001930f2a131629366195103Oversizedviscose-blendshirt4.jpg",
+        visible: true,
+        category: "dogShirt",
+        size: [34, 36, 42],
+        discount: 'From 99+5% Off', 
+        tagline: 'Pestige, Nova & more' ,
+        description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+
+    },
+    
+     {
+         id: 'product20',
+         url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/99b198ce-e3e3-431d-8087-8208a48e8bb21643116090852-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-1.jpg",
+         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/5f658adf-bd73-45b6-82d5-0941149802801643116090844-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-2.jpg",
+         title: {
+             shortTitle: 'parx',
+             longTitle: 'parx boys casual shirt-1'
+         }, 
+         price: {
+             mrp: 499,
+             cost: 166,
+             discount: '66%'
+         },
+         quantity: 1,
+         filter: "kids",
+         img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/a8aa111b-6152-4d2f-986d-7a14fc5d45ac1643116090821-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-4.jpg",
+         img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/a2f806d8-a899-4b07-b2b9-8f2eeac462b41643116090809-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-5.jpg",
+         visible: true,
+         category: "dogShirt",
+         size: [34, 36, 42],
+         discount: 'Upto 70% Off', 
+         tagline: 'Deal of the Day' ,
+         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+ 
+     },
+     {
+         id: 'product21',
+         url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/66a36c83-d32d-4c9d-83a3-745f5a47616d1643968640507-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-1.jpg",
+         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/34eac3dd-1589-450c-ab6c-e691a40c45091643968640498-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-2.jpg",
+         title: {
+             shortTitle: 'zara',
+             longTitle: 'zara pure cotton casual shirt-1',
+         }, 
+         price: {
+             mrp: 6999,
+             cost: 4049,
+             discount: '42%'
+         },
+         quantity: 1,
+         discount: 'Grab Now', 
+         tagline: 'Best Seller',
+         filter: "kids",
+         img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/cd910e56-bc98-4cb4-9037-ca43fc739ea71643968640488-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-3.jpg",
+         img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/506946f1-09d7-4589-a95f-79f1863ab8121643968640453-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-6.jpg",
+         visible: true,
+         category: "shirt",
+         size: [34, 36, 42],
+         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+ 
+     },
+     {
+         id: 'product22',
+         url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/0626a408-916b-4cbe-93fc-e378d97547401645075676736GANTWomenCream-ColouredFloralCasualShirt1.jpg",
+         detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/663b1163-c8bc-4413-84db-0d86bf83592e1645075676647GANTWomenCream-ColouredFloralCasualShirt2.jpg",
+         title: {
+             shortTitle: 'zara',
+             longTitle: 'zara casual shirt-3'
+         }, 
+         price: {
+             mrp: 1899,
+             cost: 1124,
+             discount: '40%'
+         },
+         quantity: 1,
+         discount: 'From ₹499', 
+         tagline: 'Kubra, Nova & more',
+         filter: "women",
+         img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/d5873855-cf43-4bd1-8fc1-86bd5cacc4c21645075676533GANTWomenCream-ColouredFloralCasualShirt3.jpg",
+         img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/12412ee0-fb7c-447d-acb7-ce455b823f551645075676284GANTWomenCream-ColouredFloralCasualShirt4.jpg",
+         visible: true,
+         category: "dogShirt",
+         size: [34, 36, 42],
+         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+ 
+     },
+     {
+        id: 'product23',
+        url2: 'https://www.myntra.com/shirts/herenow/herenow-men-red--black-regular-fit-checked-casual-shirt/2414313/buy',
+        url:'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368526-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-1.jpg',
+        detailUrl:'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368483-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-4.jpg',     
+        title: {
+            shortTitle: 'HERE&NOW',
+            longTitle: 'here&now Men Regular Fit Casual Shirt-1'
+        }, 
+        price: {
+            mrp: 1899,
+            cost: 1124,
+            discount: '40%'
+        },
+        quantity: 1,
+        discount: 'From ₹499', 
+        tagline: 'Kubra, Nova & more',
+        cat: '',
+        folded: 'Y',
+        filter: "men",   
+        visible: true,
+        category: "dogShirt", 
+        description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !",
+        img3:'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368507-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-2.jpg',
+        img4: 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368495-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-3.jpg',
+        productSize: [38, 40, 42, 44, 46],
+    },
+    //------------------------------------
+    
+   
+    
+    // {
+    //     id: 'product23',
+    //     url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/6405d4b3-1956-4f04-84a7-3e51af2e32aa1645109150192GANTMenWhitePrintedCasualShirt2.jpg",
+    //     detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
+    //     pname: "roadster",
+    //     product: "cotton chambary casual shirt",
+    //     title: {
+    //         shortTitle: 'roadster',
+    //         longTitle: 'roadster cotton chambary casual shirt'
+    //     }, 
+    //     price: {
+    //         mrp: 2250,
+    //         cost: 1199,
+    //         discount: '46%'
+    //     },
+    //     quantity: 1,
+    //     discount: 'Minimum 40% Off', 
+    //     tagline: 'Top Selling' ,
+    //     filter: "men",
+    //     img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/06f30541-4140-49be-b1a4-ef37e5af16581645109150031GANTMenWhitePrintedCasualShirt3.jpg",
+    //     img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/8c6332f7-6834-469b-9a97-92ee8481e3da1645109149753GANTMenWhitePrintedCasualShirt4.jpg",
+    //     visible: true,
+    //     category: "shirt",
+    //     size: [34, 36, 42],
+    //     description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
+
+    // },
+   
    
 
 ];
-// id -9 completed
-//id- product17 completed
+// id -10 completed
+//id- product18 completed

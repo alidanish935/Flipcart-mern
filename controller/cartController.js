@@ -34,6 +34,8 @@ try{
          res.status(500).json({message:error.message})
     }
 }
+
+
 export const IncreaseItemQuantity = async(req,res)=>{
     const id = req.params.id
     const exist = await cart.findOne({_id:id})

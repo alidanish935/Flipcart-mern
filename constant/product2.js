@@ -1,6 +1,6 @@
 export const Data = [
-   
-    {id: 1, pname: "zara", product: "slim casual shirt", filter: "men",imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/637626cc-565d-4322-98ed-2674cfa4a4281549278244906-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-1.jpg",img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/9d4ff7c7-549f-4b8f-9bea-f254c3c631861549278244885-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-2.jpg",img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/41772698-8748-466f-a091-6de23005bbad1549278244863-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-3.jpg",img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/fc961fe1-19bd-4b43-a64a-4cc761f1f4d81549278244822-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-5.jpg",price: "Rs 469",visible: true,category: "shirt",size: [34, 36, 42],description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"},
+
+    { id: 1, pname: "zara", product: "slim casual shirt", filter: "men", imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/637626cc-565d-4322-98ed-2674cfa4a4281549278244906-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-1.jpg", img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/9d4ff7c7-549f-4b8f-9bea-f254c3c631861549278244885-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-2.jpg", img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/41772698-8748-466f-a091-6de23005bbad1549278244863-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-3.jpg", img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6849350/2019/2/4/fc961fe1-19bd-4b43-a64a-4cc761f1f4d81549278244822-Roadster-Men-Blue-Regular-Fit-Checked-Casual-Shirt-378154927-5.jpg", price: "Rs 469", visible: true, category: "shirt", size: [34, 36, 42], description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !" },
     {
         id: 2,
         pname: "roadster",
@@ -15,7 +15,7 @@ export const Data = [
         category: "sleepShirt",
         size: [34, 36, 42, 45],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 3,
@@ -24,14 +24,14 @@ export const Data = [
         filter: "women",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/824ee25a-b4ad-4dd4-bc0b-99338ca190101584008987463-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-1.jpg",
         price: "Rs 1374",
-        img2:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/5c7d5d63-51ea-470e-9478-99b5f86ff7d01584008987255-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-6.jpg",
-        img3:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/fa37246a-ef07-43c7-98ee-29cd507134671584008987297-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-5.jpg",
-        img4:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/63e233c9-00b6-4ae9-85ac-3a3a60e3c7451584008987375-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-3.jpg",
+        img2: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/5c7d5d63-51ea-470e-9478-99b5f86ff7d01584008987255-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-6.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/fa37246a-ef07-43c7-98ee-29cd507134671584008987297-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-5.jpg",
+        img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11526630/2020/3/12/63e233c9-00b6-4ae9-85ac-3a3a60e3c7451584008987375-Roadster-Women-Green--Mustard-Regular-Fit-Printed-Casual-Shi-3.jpg",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 4,
@@ -39,15 +39,15 @@ export const Data = [
         product: "slim fat casual shirt",
         filter: "men",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353466-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-1.jpg",
-        img2:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353416-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-3.jpg",
-        img3:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353388-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-4.jpg",
-        img4:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353356-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-5.jpg",
+        img2: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353416-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-3.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353388-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-4.jpg",
+        img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2016/9/15/11473928353356-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-5.jpg",
         price: "Rs 719",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 5,
@@ -55,9 +55,9 @@ export const Data = [
         product: "slim fit casual shirt",
         filter: "girls",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/3bf2eeca-63b4-46b3-b392-092b4ac940c01645461017026OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt1.jpg",
-        img2:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/83d1e9db-0d04-4cb6-80ed-4079f67428021645461017132OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt5.jpg",
-        img3:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/f9009969-ff1b-440e-95d4-ed48615e35371645461017349OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt7.jpg",
-        img4:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/e932a833-9cff-4940-b6b9-141d9d7dd7601645461017110OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt4.jpg",
+        img2: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/83d1e9db-0d04-4cb6-80ed-4079f67428021645461017132OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt5.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/f9009969-ff1b-440e-95d4-ed48615e35371645461017349OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt7.jpg",
+        img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14596852/2022/2/21/e932a833-9cff-4940-b6b9-141d9d7dd7601645461017110OxolloxoGirlsMulti-ColouredFloralPrintedCasualShirt4.jpg",
         price: "Rs 699",
         recommendation: 1,
         discount: 20,
@@ -66,7 +66,7 @@ export const Data = [
         category: "sleepShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 6,
@@ -74,15 +74,15 @@ export const Data = [
         product: "oversized cotton shirt",
         filter: "boys",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/07b6bf7a-3499-4d5a-aeb0-2c4e1997ef561639740587223-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-1.jpg",
-        img2:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/792b5e1c-1040-4b7c-81b1-6e460584e8051639740587187-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-5.jpg",
-        img3:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/dea1a5ba-79e2-4120-8f06-260aa6066a6a1639740587207-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-3.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14801768/2021/12/17/5c83f035-439a-4af5-a2fc-44c22b23e0a01639740587199-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-4.jpg",
+        img2: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/792b5e1c-1040-4b7c-81b1-6e460584e8051639740587187-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-5.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14801768/2021/12/17/dea1a5ba-79e2-4120-8f06-260aa6066a6a1639740587207-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14801768/2021/12/17/5c83f035-439a-4af5-a2fc-44c22b23e0a01639740587199-YK-Boys-Red-Solid-Pure-Cotton-Opaque-Casual-Shirt-1591639740-4.jpg",
         price: "Rs 909",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 7,
@@ -90,15 +90,15 @@ export const Data = [
         product: "dobby sheer boxy shirt",
         filter: "women",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17022496/2022/2/22/d288e014-879f-4bd0-8ba0-91113e368f021645524584539-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-1.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17022496/2022/2/22/c5fd4552-a6ab-4acc-b1c7-383f742286e61645524584527-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-2.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17022496/2022/2/22/1148a10e-ad72-4dac-bdcf-2eb7cced70d31645524584497-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-4.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17022496/2022/2/22/9c1e73c4-63f6-4ebf-b817-c39b7caa88b11645524584513-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-3.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17022496/2022/2/22/c5fd4552-a6ab-4acc-b1c7-383f742286e61645524584527-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-2.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17022496/2022/2/22/1148a10e-ad72-4dac-bdcf-2eb7cced70d31645524584497-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-4.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17022496/2022/2/22/9c1e73c4-63f6-4ebf-b817-c39b7caa88b11645524584513-MANGO-Women-Rust-Orange-Solid-Casual-Shirt-9341645524584179-3.jpg",
         price: "Rs 584",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 8,
@@ -106,15 +106,15 @@ export const Data = [
         product: "semi-sheer casual shirt",
         filter: "girls",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/1063e93f-0949-4ce1-a1e8-ee55e53593241634727742651PepeJeansGirlsBlueOpaqueCasualShirt1.jpg",
-        img2:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/48fc7a5b-bc4f-4a79-9f81-79fdf0a975ce1634727742840PepeJeansGirlsBlueOpaqueCasualShirt6.jpg",
-        img3:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/833758f0-486e-457c-a86e-994023ebe2441634727742508PepeJeansGirlsBlueOpaqueCasualShirt5.jpg",
-        img4:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/466f0973-21e2-466a-ad9f-2de26bde35261634727743075PepeJeansGirlsBlueOpaqueCasualShirt2.jpg",
+        img2: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/48fc7a5b-bc4f-4a79-9f81-79fdf0a975ce1634727742840PepeJeansGirlsBlueOpaqueCasualShirt6.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/833758f0-486e-457c-a86e-994023ebe2441634727742508PepeJeansGirlsBlueOpaqueCasualShirt5.jpg",
+        img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15876846/2021/10/20/466f0973-21e2-466a-ad9f-2de26bde35261634727743075PepeJeansGirlsBlueOpaqueCasualShirt2.jpg",
         price: "Rs 599",
         visible: true,
         category: "sleepShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 9,
@@ -122,47 +122,51 @@ export const Data = [
         product: "solid casual shirt",
         filter: "boys",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14082954/2021/7/7/cf2af15c-b1b6-4b40-8272-667fdc7342451625657481271IndianTerrainBoysPinkPureCottonPrintedCasualShirt1.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/e1447d71-80d8-4ffa-b02c-e004a8ad8bbe1625657481513IndianTerrainBoysPinkPureCottonPrintedCasualShirt2.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/db43ff4c-5a6b-4925-9724-3d2df943f1141625657481807IndianTerrainBoysPinkPureCottonPrintedCasualShirt5.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/ea0cc542-f671-4a4d-bc2b-2352d11047361625657481591IndianTerrainBoysPinkPureCottonPrintedCasualShirt3.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/e1447d71-80d8-4ffa-b02c-e004a8ad8bbe1625657481513IndianTerrainBoysPinkPureCottonPrintedCasualShirt2.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/db43ff4c-5a6b-4925-9724-3d2df943f1141625657481807IndianTerrainBoysPinkPureCottonPrintedCasualShirt5.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14082954/2021/7/7/ea0cc542-f671-4a4d-bc2b-2352d11047361625657481591IndianTerrainBoysPinkPureCottonPrintedCasualShirt3.jpg",
         price: "Rs 623",
         visible: true,
         category: "dogShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
+
     {
         id: 10,
         pname: "harvard",
         product: "regular fit casual shirt",
         filter: "women",
         imgscr: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/0cfc9a8c-bea8-4d45-b23c-0c6b343706061643343225264Checkedshirt1.jpg",
-        img2:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/385ea3af-3859-4b72-83cc-269a2ec03c301643343225252Checkedshirt2.jpg",
-        img3:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/c9ec7457-9bdd-43ba-9f54-65b87e6e83d11643343224742Checkedshirt3.jpg",
-        img4:"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/e1c9eff1-718f-4511-9153-c57bbbf8e27c1643343224730Checkedshirt4.jpg",
+        img2: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/385ea3af-3859-4b72-83cc-269a2ec03c301643343225252Checkedshirt2.jpg",
+        img3: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/c9ec7457-9bdd-43ba-9f54-65b87e6e83d11643343224742Checkedshirt3.jpg",
+        img4: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16957408/2022/1/28/e1c9eff1-718f-4511-9153-c57bbbf8e27c1643343224730Checkedshirt4.jpg",
         price: "Rs 459",
         visible: true,
         category: "sleepShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
+
+
+
     {
         id: 11,
         pname: "wrogn",
         product: "check hooded casual shirt",
         filter: "girls",
         imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/7832e213-2231-44d3-8a36-0fe4f0e3862c1629366195385Oversizedviscose-blendshirt1.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/619186b9-564d-4f09-bfdc-1f3bba9b882b1629366195228Oversizedviscose-blendshirt2.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/cbc0e41b-61fd-4f6c-830b-27b182c9226d1629366194985Oversizedviscose-blendshirt3.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/714ca238-bb80-4ff3-b7c1-a001930f2a131629366195103Oversizedviscose-blendshirt4.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/619186b9-564d-4f09-bfdc-1f3bba9b882b1629366195228Oversizedviscose-blendshirt2.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/cbc0e41b-61fd-4f6c-830b-27b182c9226d1629366194985Oversizedviscose-blendshirt3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15198510/2021/8/19/714ca238-bb80-4ff3-b7c1-a001930f2a131629366195103Oversizedviscose-blendshirt4.jpg",
         price: "Rs 899",
         visible: true,
         category: "dogShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 12,
@@ -170,15 +174,15 @@ export const Data = [
         product: "boys casual shirt",
         filter: "boys",
         imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/99b198ce-e3e3-431d-8087-8208a48e8bb21643116090852-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-1.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/5f658adf-bd73-45b6-82d5-0941149802801643116090844-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-2.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/a8aa111b-6152-4d2f-986d-7a14fc5d45ac1643116090821-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-4.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/a2f806d8-a899-4b07-b2b9-8f2eeac462b41643116090809-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-5.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/5f658adf-bd73-45b6-82d5-0941149802801643116090844-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-2.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/a8aa111b-6152-4d2f-986d-7a14fc5d45ac1643116090821-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-4.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15263498/2022/1/25/a2f806d8-a899-4b07-b2b9-8f2eeac462b41643116090809-YK-Boys-Black--Grey-Geometric-Printed-Casual-Shirt-555164311-5.jpg",
         price: "Rs 699",
         visible: true,
         category: "dogShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 13,
@@ -186,15 +190,15 @@ export const Data = [
         product: "pure cotton casual shirt",
         filter: "boys",
         imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/66a36c83-d32d-4c9d-83a3-745f5a47616d1643968640507-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-1.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/34eac3dd-1589-450c-ab6c-e691a40c45091643968640498-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-2.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/cd910e56-bc98-4cb4-9037-ca43fc739ea71643968640488-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-3.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/506946f1-09d7-4589-a95f-79f1863ab8121643968640453-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-6.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/34eac3dd-1589-450c-ab6c-e691a40c45091643968640498-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-2.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/cd910e56-bc98-4cb4-9037-ca43fc739ea71643968640488-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14101740/2022/2/4/506946f1-09d7-4589-a95f-79f1863ab8121643968640453-US-Polo-Assn-Kids-Boys-White-Regular-Fit-Printed-Casual-Shir-6.jpg",
         price: "Rs 899",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 14,
@@ -202,15 +206,15 @@ export const Data = [
         product: "casual shirt",
         filter: "women",
         imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/0626a408-916b-4cbe-93fc-e378d97547401645075676736GANTWomenCream-ColouredFloralCasualShirt1.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/663b1163-c8bc-4413-84db-0d86bf83592e1645075676647GANTWomenCream-ColouredFloralCasualShirt2.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/d5873855-cf43-4bd1-8fc1-86bd5cacc4c21645075676533GANTWomenCream-ColouredFloralCasualShirt3.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/12412ee0-fb7c-447d-acb7-ce455b823f551645075676284GANTWomenCream-ColouredFloralCasualShirt4.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/663b1163-c8bc-4413-84db-0d86bf83592e1645075676647GANTWomenCream-ColouredFloralCasualShirt2.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/d5873855-cf43-4bd1-8fc1-86bd5cacc4c21645075676533GANTWomenCream-ColouredFloralCasualShirt3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17178684/2022/2/17/12412ee0-fb7c-447d-acb7-ce455b823f551645075676284GANTWomenCream-ColouredFloralCasualShirt4.jpg",
         price: "Rs 599",
         visible: true,
         category: "dogShirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 15,
@@ -218,20 +222,20 @@ export const Data = [
         product: "cotton chambary casual shirt",
         filter: "men",
         imgscr: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/6405d4b3-1956-4f04-84a7-3e51af2e32aa1645109150192GANTMenWhitePrintedCasualShirt2.jpg",
-        img2:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/06f30541-4140-49be-b1a4-ef37e5af16581645109150031GANTMenWhitePrintedCasualShirt3.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/8c6332f7-6834-469b-9a97-92ee8481e3da1645109149753GANTMenWhitePrintedCasualShirt4.jpg",
+        img2: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/06f30541-4140-49be-b1a4-ef37e5af16581645109150031GANTMenWhitePrintedCasualShirt3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/8c6332f7-6834-469b-9a97-92ee8481e3da1645109149753GANTMenWhitePrintedCasualShirt4.jpg",
         price: "Rs 719",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !"
-    
+
     },
     {
         id: 'product8',
         url: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/6405d4b3-1956-4f04-84a7-3e51af2e32aa1645109150192GANTMenWhitePrintedCasualShirt2.jpg",
-        detailUrl:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
+        detailUrl: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/2ae2a154-e5b0-41de-a839-08d3ad7b9c351645109150348GANTMenWhitePrintedCasualShirt1.jpg",
         title: {
             shortTitle: 'roadster',
             longTitle: "cotton chambary casual shirt",
@@ -244,18 +248,43 @@ export const Data = [
         quantity: 1,
         description: "Amazing clothing you would love the asthectic look and feel of the fabric and will enjoy the time you have it on !",
         filter: "men",
-        img3:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/06f30541-4140-49be-b1a4-ef37e5af16581645109150031GANTMenWhitePrintedCasualShirt3.jpg",
-        img4:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/8c6332f7-6834-469b-9a97-92ee8481e3da1645109149753GANTMenWhitePrintedCasualShirt4.jpg",
+        img3: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/06f30541-4140-49be-b1a4-ef37e5af16581645109150031GANTMenWhitePrintedCasualShirt3.jpg",
+        img4: "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17187540/2022/2/17/8c6332f7-6834-469b-9a97-92ee8481e3da1645109149753GANTMenWhitePrintedCasualShirt4.jpg",
         visible: true,
         category: "shirt",
         size: [34, 36, 42],
-        tagline: 'Deal of the day' 
-        
+        tagline: 'Deal of the day'
+
     },
-    
+
 ];
+
+
+
+
+
+
+
+
 let Data = [
-    { 'cat': '', 'folded': 'Y', 'gender': 'M', 'name': 'HERE&NOW', 'description': 'Men Regular Fit Casual Shirt', 'finalPrice': '824', 'strickPrice': '1499', 'discount': 45, 'productSize': '38, 40, 42, 44, 46', 'link': 'https://www.myntra.com/shirts/herenow/herenow-men-red--black-regular-fit-checked-casual-shirt/2414313/buy', 'otherImages': ['https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368526-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-1.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368507-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-2.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368495-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-3.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368483-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-4.jpg'] }
+    {
+        'cat': '',
+        'folded': 'Y',
+        'gender': 'M',
+        'name': 'HERE&NOW',
+        'description': 'Men Regular Fit Casual Shirt',
+        'finalPrice': '824',
+        'strickPrice': '1499',
+        'discount': 45,
+        'productSize': '38, 40, 42, 44, 46',
+        'link': 'https://www.myntra.com/shirts/herenow/herenow-men-red--black-regular-fit-checked-casual-shirt/2414313/buy',
+        'otherImages': ['https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368526-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-1.jpg',
+            'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368507-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-2.jpg',
+            'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368495-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-3.jpg',
+            'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2414313/2018/3/13/11520926368483-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-4.jpg']
+    },
+
+
     , { 'cat': '', 'folded': 'Y', 'gender': 'M', 'name': 'Dennis Lingo', 'description': 'Men Slim Fit Casual Shirt', 'finalPrice': '554', 'strickPrice': '1849', 'discount': 70, 'productSize': '38, 40, 42, 44, 46', 'link': 'https://www.myntra.com/shirts/dennis-lingo/dennis-lingo-men-pink-slim-fit-solid-casual-shirt/7488102/buy', 'otherImages': ['https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7488102/2019/8/22/efbde05f-7f74-458c-b092-bbc9c2600ce71566454086768-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-2.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7488102/2019/8/22/936afc2c-4596-4c38-8f90-770d21935f281566454086747-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-3.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7488102/2019/8/22/9292c168-14fc-45b0-94d7-442414f8d4f81566454086728-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-4.jpg'] }
     , { 'cat': '', 'folded': 'Y', 'gender': 'M', 'name': 'HIGHLANDER', 'description': 'Men Slim Fit Casual Shirt', 'finalPrice': '519', 'strickPrice': '1299', 'discount': 60, 'productSize': '39, 40, 42, 44', 'link': 'https://www.myntra.com/shirts/highlander/highlander-men-navy-blue--maroon-slim-fit-striped-casual-shirt/7163245/buy', 'otherImages': ['https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7163245/2019/12/3/dcd39608-12bc-47a1-a1bd-78921dfa85131575367574528-HIGHLANDER-Men-Navy-Blue--Maroon-Slim-Fit-Striped-Casual-Shi-1.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7163245/2019/12/3/bc902587-944c-458a-9ebd-fe1c5f22846c1575367574481-HIGHLANDER-Men-Navy-Blue--Maroon-Slim-Fit-Striped-Casual-Shi-2.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7163245/2019/12/3/891e808f-b25c-4ef4-b9ad-0c7273f913131575367574436-HIGHLANDER-Men-Navy-Blue--Maroon-Slim-Fit-Striped-Casual-Shi-3.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7163245/2019/12/3/0d9c10dc-3840-4ea2-9da1-5a3abb7a56281575367574382-HIGHLANDER-Men-Navy-Blue--Maroon-Slim-Fit-Striped-Casual-Shi-4.jpg'] }
     , { 'cat': '', 'folded': '', 'gender': 'M', 'name': 'Roadster', 'description': 'Regular Fit Check Casual Shirt', 'finalPrice': '879', 'strickPrice': '1599', 'discount': 45, 'productSize': '38, 40, 42, 44', 'link': 'https://www.myntra.com/shirts/roadster/roadster-men-multicoloured-regular-fit-checked-casual-shirt/11008602/buy', 'otherImages': ['https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11008602/2020/1/20/8b494575-e040-4560-853d-0ddb4d4a42021579510958229-Roadster-Men-Shirts-7641579510955741-1.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11008602/2020/1/20/33078313-be8b-4854-98fe-b85671e6f4931579510958191-Roadster-Men-Shirts-7641579510955741-2.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11008602/2020/1/20/6668cfcb-2fbd-468b-be72-cb514744afa31579510958156-Roadster-Men-Shirts-7641579510955741-3.jpg', 'https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11008602/2020/1/20/6e6c56b3-3053-402b-87c3-819b1c013a6d1579510958114-Roadster-Men-Shirts-7641579510955741-4.jpg'] }
@@ -358,3 +387,448 @@ let Data = [
 
 
 ]
+
+
+
+
+
+
+
+
+[
+    {
+    id: "thapaserialnoa",
+    url: "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'iphone x',
+        longTitle: "iphone x perfectly captures the design",
+    },
+    company: "apple",
+    price: {
+        mrp: 6000000,
+        cost: 3000000,
+        discount: '50%'
+    },
+    filter:"phone",
+    quantity: 1,
+    colors: ["#ff0000", "#000000", "#CDD0D0"],
+    description: "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "mobile",
+    featured: true,
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off'
+},
+
+{
+    id: "thapaserialnob",
+    url: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'samsung s20',
+        longTitle: "samsung s20 do something great",
+    },
+    quantity: 1,
+    filter:"phone",
+    company: "samsung",
+    price: {
+        mrp: 5000000,
+        cost: 2500000,
+        discount: '50%'
+    },
+    colors: ["#000", "#22D3EF"],
+    description: "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    category: "mobile",
+    shipping: true
+},
+
+{
+    id: "thapaserialnoc",
+    url: "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Dell Series',
+        longTitle: "Dell Series branded laptop",
+    },
+    quantity: 1,
+    company: "dell",
+    price: {
+        mrp: 600000,
+        cost: 300000,
+        discount: '50%'
+    },
+    filter:"laptop",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#22D3EF", "#CDD0D0"],
+    description: "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "laptop"
+},
+{
+    id: "thapaserialnod",
+    url: "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Nokia 420',
+        longTitle: "Nokia connecting people",
+    },
+    quantity: 1,
+    company: "nokia",
+    price: {
+        mrp: 26000,
+        cost: 13000,
+        discount: '50%'
+    },
+    filter:"phone",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#000", "#000000", "#CDD0D0"],
+    description: "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "mobile",
+    shipping: true
+},
+
+{
+    id: "thapaserialnoe",
+    url: "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Mac Pc',
+        longTitle: "Mac Pc people's choice",
+    },
+    quantity: 1,
+    company: "apple",
+    price: {
+        mrp: 4000000,
+        cost: 2000000,
+        discount: '50%'
+    },
+    filter:"pc",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#000", "#CDD0D0"],
+    description: "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "computer",
+    shipping: true
+},
+
+{
+    id: "thapaserialnof",
+    url: "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Macbook Pro',
+        longTitle: "Macbook Pro Design to delight",
+    },
+    quantity: 1,
+    company: "apple",
+    price: {
+        mrp: 85998,
+        cost: 42999,
+        discount: '50%'
+    },
+    filter:"laptop",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#000000", "#CDD0D0"],
+    description: "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "laptop",
+    shipping: true
+},
+{
+    id: "thapaserialnog",
+    url: "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Asus gseries',
+        longTitle: "Asus choice for all",
+    },
+    quantity: 1,
+    company: "asus",
+    price: {
+        mrp: 47998,
+        cost: 23999,
+        discount: '50%'
+    },
+    filter:"laptop",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#CDD0D0", "#000"],
+    description: "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "laptop",
+    shipping: true
+},
+{
+    id: "thapaserialnoh",
+    url: "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Accessories ',
+        longTitle: "Accessories of Lenova for all",
+    },
+    quantity: 1,
+    price: {
+        mrp: 2199998,
+        cost: 1099999,
+        discount: '50%'
+    },
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    company: "lenova",
+    colors: ["#000", "#CDD0D0"],
+    description: "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "mobile",
+    filter:"phone",
+    featured: true,
+    shipping: true
+},
+{
+    id: "thapaserialnoi",
+    url: "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'Iwatch ',
+        longTitle: "Enjoy India's best watch ",
+    },
+    quantity: 1,
+    price: {
+        mrp: 79998,
+        cost: 39999,
+        discount: '50%'
+    },
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    company: "apple",
+    colors: ["#000000"],
+    description: "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "watch",
+    filter:"watch",
+    shipping: true
+},
+{
+    id: "thapaserialnoj",
+    url: "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'user need ',
+        longTitle: "setisfy user's need with best selfies ",
+    },
+    quantity: 1,
+    company: "apple",
+    price: {
+        mrp: 600198,
+        cost: 300099,
+        discount: '50%'
+    },
+    filter:"phone",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#ff0000", "#22D3EF", "#000000"],
+    description: "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "mobile"
+},
+{
+    id: "thapaserialnok",
+    url: "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'rolex premium ',
+        longTitle: "rolex branded watch ",
+    },
+    quantity: 1,
+    company: "rolex",
+    price: {
+        mrp: 600198,
+        cost: 999999,
+        discount: '50%'
+    },
+    filter:"watch",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    colors: ["#000000", "#CDD0D0"],
+    description: "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "watch"
+},
+//https://miniwhale.in/wp-content/uploads/2023/03/1.png
+//https://rukminim2.flixcart.com/image/312/312/jziqhzk0/learning-toy/t/m/y/lcd-writing-8-5-inch-tablet-electronic-writing-drawing-doodle-original-imafhz2fq2snggcc.jpeg?q=70
+{
+    id: "thapaserialnol",
+    url: "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    detailUrl: "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    title: {
+        shortTitle: 'galaxy w20 ',
+        longTitle: " galaxy people's 1st choise ",
+    },
+    quantity: 1,
+    price: {
+        mrp: 623998,
+        cost: 311999,
+        discount: '50%'
+    },
+    filter:"watch",
+    tagline: 'Deal of the day',
+    discount: 'Upto 50% Off',
+    company: "samsung",
+    colors: ["#22D3EF", "#ff0000", "#000000"],
+    description: "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    category: "watch",
+    featured: true
+},
+{
+    id: "toyslate1",
+    url: "https://rukminim2.flixcart.com/image/312/312/jziqhzk0/learning-toy/t/m/y/lcd-writing-8-5-inch-tablet-electronic-writing-drawing-doodle-original-imafhz2fq2snggcc.jpeg?q=70",
+    detailUrl: "https://rukminim2.flixcart.com/image/312/312/jziqhzk0/learning-toy/t/m/y/lcd-writing-8-5-inch-tablet-electronic-writing-drawing-doodle-original-imafhz2fq2snggcc.jpeg?q=70",
+    title: {
+        shortTitle: 'Ephemeral 12 Inch Electronic Slate for Kids',
+        longTitle: "Ephemeral 12 Inch LCD Writing Tablet Large Size Electronic Slate for Kids ",
+    },
+    quantity: 1,
+    company: "Ephemeral",
+    price: {
+        mrp: 999,
+        cost: 281,
+        discount: '71%'
+    },
+    filter:"toy",
+    tagline: 'Deal of the day',
+    discount: 'Upto 80% Off',
+    colors: ["#000000", "#CDD0D0"],
+    description: "Alphabet & Number Recognition, Color & Shape Recognition, Creativity & Imagination, Hand & Eye Co-ordination, Problem Solving, Reading & Writing.",
+    category: "toy"
+},
+{
+    id: "toycar1",
+    url: "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-ride-on/4/d/v/004-40-brokke-original-imagbfugn8mxwsuh.jpeg?q=70",
+    detailUrl: "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-ride-on/4/d/v/004-40-brokke-original-imagbfugn8mxwsuh.jpeg?q=70",
+    title: {
+        shortTitle: 'Mercedes Car',
+        longTitle: "SmallBoyToys Mercedes Battery Operated Ride on (1-5 Yrs) Bluetooth with Music, Lights, Safety Seat Belt, Bluetooth Remote Car Battery Operated Ride On  (White) ",
+    },
+    quantity: 1,
+    company: "Mercedes",
+    price: {
+        mrp: 16999,
+        cost: 12999,
+        discount: '23%'
+    },
+    filter:"toy",
+    tagline: 'Deal of the day',
+    discount: 'Upto 40% Off',
+    colors: ["#000000", "#CDD0D0"],
+    description: " Small Boy Toys battery operated ride on car, battery powered ride-on car for kids Can also be driven by both remote control mode or the manual foot-treat mode by using a. Turn on the main power switch b. Forward/backward direction C. Select the gear speed D. Foot switch. The remote control can operate the car in forwards and reverse gears and also turn the steering wheel left and right. Genuine ride on car - This electric kids' Car is a realistic scale replica of a real vehicle. Optional remote control - the ride on car can be used with the normal in-car controls, using the pedal with the forwards/reverse gears and steering wheel or can optionally be used remotely with the parental control. Main function 1) forward/backward function The right side of the Dashboard is provided with the transfer lever (transfer switch) of the forward gear, neutral gear and reverse gear. 2) foot-tread driving function when the lever is in a forward or backward state, the car can move forward or backward if the foot switch is stepped and the car will stop running if the foot switch is loosened. Functions of dashboard and steering wheel 1) main power switch press the main power switch so that the power lamp is on and the motor is in a standby state. Press it again to stop the motor. 2) car horn button on the steering wheel every time you press the horn button once, the tantara will last for some time. 3) Left right music button on the steering wheel every time you press the left/right music button once, a song will start for some time. Realistic front light and back light features are also there. Initially adult assembly is required for the product to run. A complete instruction manual is provide with the product. OUR WEBSITE- WWW.SMALLBOYTOYS.COM.",
+    category: "toy"
+},
+{
+    id: "toybike1",
+    url: "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-ride-on/i/i/p/-original-imagqz5b7facznrb.jpeg?q=70",
+    detailUrl: "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-ride-on/i/i/p/-original-imagqz5b7facznrb.jpeg?q=70",
+    title: {
+        shortTitle: 'Electronic bike',
+        longTitle: "Prabal 88 battery operated Electric Bike with USB CONNECTIVITY with LED LIGHT WHEEL 69855245 Tricycle  ",
+    },
+    quantity: 1,
+    company: "Tricycle",
+    price: {
+        mrp: 19999,
+        cost: 5200,
+        discount: '73%'
+    },
+    filter:"toy",
+    tagline: 'Deal of the day',
+    discount: 'Upto 80% Off',
+    colors: ["#000000", "#CDD0D0"],
+    description:  "Oh Baby product.IF WE PUSH FORWARD BUTTON AND THEN ACCELERATOR BIKE GOES FORWARD AND IF WE PRESS BACKWARD BUTTON AFTER ACCELERATOR BIKE GOES BACKWARD, TURN RIGHT AND LEFT WITH THE HELP OF STEERING. 1.Suitable Age:- 37 to 71, 2.speed:- 3 km/h, 3,charge:- input : 110v or 220-240v, 50 hz Output : dc6v 500 ma, 4.power way:- charging type, 5.fuse:- 15a, 6.load capacity:- 25 kg, 7.bettery:- 6v-4.5. ah*1, 8.charging time:- 8-12 hours, 9.average bettery life:- approximately 300.. The very attractive battery operated fun bike. This bike has a very sporty bike design. Front and rear led lights are an instant attraction to the children. The maximum speed that this bike can go is 4 km/hr.OH BABY recommends this bike to be used by children within the age of 3 to 6 years. The maximum weight suggested is 25 kgs. This bike sports an attractive musical horn. This is a fun ride on bike for the children and they will have a whale of a time riding this bike. The battery is rechargeable. All the parts of this bike are of virgin pvc material and are totally safe for children. The quality and the design of this bike are of European standards.Every minor point is considered to give safest product to your Baby. EASY TO RIDE : Your baby can operate this motorcycle easily by himself/herself by foot pedal for acceleration. All you need is a smooth, flat surface to have your kids on-the-go. The 3-wheel designed motorcycle is smooth and simple to ride for your toddler or young children. Multi-FUNCTIONS: 1. By pressing the built-In musical and horn button, your baby can listen to the music while riding. 2. Working Headlights make it more realistic. 3. Equipped with ON/OFF & Forward/Backward switches for easy ride. 4. The back storage compartment can be opened and you can put in suitable toys. RECHARGEABLE BATTERY : Comes with a charger, your baby can consistently ride on it for many times with its rechargeable battery. The instruction manual with clear assembling instructions is sent along with the package for your ease and comfort. Thank you. Key Feature 1 : Front And Rear Led Lights Key Feature 2 : Battery. Charge Key Feature 3 : Attractive Musical Horn Care & Warnings Children must be under adult supervision while riding this Ride-on. Note : The product will be delivered in un-assembled form adult assembly required. L*B*H 82x40x53 ",
+    category: "toy"
+},
+{
+    id: "bannermobilepoco",
+    url: "https://rukminim2.flixcart.com/image/200/200/cms-rpd-images/782c6a27923d42a69184be33aa2531fb_178ee0d79e4_image.png?q=90",
+    detailUrl: "https://rukminim2.flixcart.com/image/200/200/cms-rpd-images/782c6a27923d42a69184be33aa2531fb_178ee0d79e4_image.png?q=90",
+    title: {
+        shortTitle: 'POCO mobile',
+        longTitle: "POCO X3 Pro (Steel Blue, 128 GB)  (6 GB RAM)#JustHere (mobile)  ",
+    },
+    quantity: 1,
+    company: "POCO",
+    price: {
+        mrp: 26398,
+        cost: 23999,
+        discount: '10%'
+    },
+    filter:"phone",
+    tagline: 'Deal of the day',
+    discount: 'coming soon',
+    colors: ["#000000", "#CDD0D0"],
+    description:  "For fast computing on the move, impressive photos, and all-day-long, uninterrupted performance, the POCO X3 Pro is the right device for you. This smartphone features the Qualcomm Snapdragon 860 for smooth function, 16.94-cm (6.67) FHD+ Display for clear visuals, and a 5160 mAh Battery to ensure that your smartphone does not run out of battery quickly ",
+    category: "pocox3"
+},
+{
+    id: "bannermobilerealme",
+    url: "https://rukminim2.flixcart.com/image/416/416/kpbipow0/mobile/n/o/p/x7-max-rmx3031-realme-original-imag3kpnzv6nzwq2.jpeg?q=70",
+    detailUrl: "https://rukminim2.flixcart.com/image/416/416/kpbipow0/mobile/n/o/p/x7-max-rmx3031-realme-original-imag3kpnzv6nzwq2.jpeg?q=70",
+    title: {
+        shortTitle: 'realme mobile',
+        longTitle: "realme X7 Max (Mercury Silver, 128 GB)  (8 GB RAM) (mobile)  ",
+    },
+    quantity: 1,
+    company: "realme",
+    price: {
+        mrp: 29999,
+        cost: 26999,
+        discount: '10%'
+    },
+    filter:"phone",
+    tagline: 'Deal of the day',
+    discount: 'coming soon',
+    colors: ["#000000", "#CDD0D0"],
+    description:  " The realme X7 Max features a stylish design and innovative features so that you can enjoy all that the phone has to offer. It is equipped with the 50 W SuperDart Charge feature so that your phone can be quickly charged from 0 to 50% in up to 16 minutes. Thanks to the Android 11 feature, you can enjoy the realme UI 2.0 feature so that you can enjoy easy customisation, upgraded connectivity, and more. ",
+    category: "realmex7"
+},
+{
+    id: "bannermobilemoto",
+    url: "https://rukminim2.flixcart.com/image/416/416/l0o6nbk0/mobile/y/s/e/-original-imagceu559m75mks.jpeg?q=70",
+    detailUrl: "https://rukminim2.flixcart.com/image/416/416/l0o6nbk0/mobile/8/d/f/-original-imagceu5gg6uzy56.jpeg?q=70",
+    title: {
+        shortTitle: 'MOTOROLA mobile',
+        longTitle: "MOTOROLA G60 (Moonless, 128 GB)  (6 GB RAM) (mobile)  ",
+    },
+    quantity: 1,
+    company: "MOTOROLA",
+    price: {
+        mrp: 21999,
+        cost: 15999,
+        discount: '27%'
+    },
+    filter:"phone",
+    tagline: 'Deal of the day',
+    discount: 'coming soon',
+    colors: ["#000000", "#CDD0D0"],
+    description:  " The MOTOROLA G60 features a stylish design and innovative features so that you can enjoy all that the phone has to offer. It is equipped with the 50 W SuperDart Charge feature so that your phone can be quickly charged from 0 to 50% in up to 16 minutes. Thanks to the Android 11 feature, you can enjoy the realme UI 2.0 feature so that you can enjoy easy customisation, upgraded connectivity, and more. ",
+    category: "motog60"
+},
+{
+    id: "bannerac1",
+    url: "https://rukminim2.flixcart.com/image/312/312/xif0q/air-conditioner-new/u/z/l/-original-imagnxf2ucxgppuz.jpeg?q=70",
+    detailUrl: "https://rukminim2.flixcart.com/image/312/312/xif0q/air-conditioner-new/u/z/l/-original-imagnxf2ucxgppuz.jpeg?q=70",
+    title: {
+        shortTitle: 'realme TechLife AC',
+        longTitle: "realme TechLife 2023 Range 1 Ton 4 Star Split Inverter 4-in-1 Convertible with Flexi-Control Technology AC - White  (104SIAA22BWR, Copper Condenser)#JustHere   ",
+    },
+    quantity: 1,
+    company: "realme",
+    price: {
+        mrp: 48999,
+        cost: 27999,
+        discount: '42%'
+    },
+    filter:"ac",
+    tagline: 'Deal of the day',
+    discount: 'coming soon',
+    colors: ["#000000", "#CDD0D0"],
+    description:  "  Beat the summer heat with all in new 4 in 1 Convertible realme Techlife Air Conditioner suited for Indian weather conditions. Inverter Technology with variable speed compressor cools at even 55 degrees Celsius. 100% copper condenser tubes help to deliver impeccable performance and high-class ventilation for a long time. Superior Performance, Maximum savings, and Minimum Energy Consumption thus providing to be easy on your pockets. ",
+    category: "ac"
+}
+]
+//https://rukminim2.flixcart.com/image/312/312/xif0q/air-conditioner-new/u/z/l/-original-imagnxf2ucxgppuz.jpeg?q=70

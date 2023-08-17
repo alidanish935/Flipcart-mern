@@ -14,11 +14,14 @@ export const DefaultData= async ()=>{
     }
 }
 
+
+
 export const DefaultClothData =async()=>{
     try {
-           await ProductCloth.deleteMany({})
+        //    await ProductCloth.deleteMany({})
+        // console.log('clothData--',clothData)
             await ProductCloth.insertMany(clothData)
-            console.log('data imported successfuly')
+            console.log('clothdata imported successfuly')
         }catch(error){
             console.log('error while inserting default data',error.message)
         }
