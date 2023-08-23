@@ -1,7 +1,7 @@
 import mongoose from "mongoose"
 
 const clothSchema = new mongoose.Schema({
-    id:{type:String,required:true},
+    id:{type:String,required:true,unique:true},
     url:String,
     detailUrl:String,
     title:Object,
